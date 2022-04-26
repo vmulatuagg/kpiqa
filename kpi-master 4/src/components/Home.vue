@@ -91,7 +91,7 @@ import milestoneJSON from "../data/milestone.json";
 // import Layout from "./Layout.vue";
 
 
-const token = "glpat-cvppuvi75js6C_wEXZAn"
+const token = "glpat-xzZoy9sobVjoqoaLC1F7"
 const baseurl = "https://gitlab.com/api/v4"
 const employee = employeeData;
 const sprint = sprintData;
