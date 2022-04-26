@@ -72,7 +72,7 @@ import axios from "axios"
 import moment from "moment"
 import milestoneJSON from "../data/milestone.json";
 
-const token = "glpat-cvppuvi75js6C_wEXZAn"
+const token = "glpat-xzZoy9sobVjoqoaLC1F7"
 const baseurl = "https://gitlab.com/api/v4"
 const milestoneData = milestoneJSON
 export default {
