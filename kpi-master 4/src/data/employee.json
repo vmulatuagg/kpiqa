@@ -1,0 +1,82 @@
+[
+    {
+        "assignee_id" : 9425375,
+        "role": "TL",
+        "name": "Sandi Anjar Maulana"
+    },
+    {
+        "assignee_id" : 1178691,
+        "role": "EM",
+        "name": "Zainul Karim"
+    },
+    {
+        "assignee_id" : 2184632,
+        "role": "SFE",
+        "name": "M. Zaula"
+    },
+    {
+        "assignee_id" : 10338729,
+        "role": "SBE",
+        "name": "Deni Rahman"
+    },
+    {
+        "assignee_id" : 10878095,
+        "role": "SBE",
+        "name": "Ibid Athoillah"
+    },
+    {
+        "assignee_id" : 8777141,
+        "role": "BE",
+        "name": "Romi Zaki Ferdiyanto"
+    },
+    {
+        "assignee_id" : 8742507,
+        "role": "BE",
+        "name": "Muhammad Ary Widodo"
+    },
+    {
+        "assignee_id" : 5856365,
+        "role": "BE",
+        "name": "Fadli Asyhari"
+    },
+    {
+        "assignee_id" : 3358666,
+        "role": "FE",
+        "name": "Deka Galang Permadi"
+    },
+    {
+        "assignee_id" : 961901,
+        "role": "FE",
+        "name": "M. Bahrul Subkhi"
+    },
+    {
+        "assignee_id" : 2558987,
+        "role": "FE",
+        "name": "Edo Katon Setiawan"
+    },
+    {
+        "assignee_id" : 10120651,
+        "role": "FE",
+        "name": "Hendra Friatman"
+    },
+    {
+        "assignee_id" : 10796417,
+        "role": "FE",
+        "name": "Ryan Rizki Saputra"
+    },
+    {
+        "assignee_id" : 5532063,
+        "role": "FS",
+        "name": "Wahyu Fatoni"
+    },
+    {
+        "assignee_id" : 1146445,
+        "role": "FE",
+        "name": "Hardy Setiawan"
+    },
+    {
+        "assignee_id" : 3810805,
+        "role": "FE",
+        "name": "Refa Dewangga"
+    }
+]

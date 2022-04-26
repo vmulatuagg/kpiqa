@@ -1,0 +1,60 @@
+[
+    {
+        "days": 10,
+        "weight" : [
+            {
+                "position" : "SFE",
+                "weight" : 15
+            },
+            {
+                "position" : "FE",
+                "weight" : 10
+            },
+            {
+                "position" : "SBE",
+                "weight" : 15
+            },
+            {
+                "position" : "BE",
+                "weight" : 10
+            },
+            {
+                "position" : "SFS",
+                "weight" : 15
+            },
+            {
+                "position" : "FS",
+                "weight" : 10
+            }
+        ]
+    },
+    {
+        "days": 5,
+        "weight" : [
+            {
+                "position" : "SFE",
+                "weight" : 8
+            },
+            {
+                "position" : "FE",
+                "weight" : 5
+            },
+            {
+                "position" : "SBE",
+                "weight" : 8
+            },
+            {
+                "position" : "BE",
+                "weight" : 5
+            },
+            {
+                "position" : "SFS",
+                "weight" : 8
+            },
+            {
+                "position" : "FS",
+                "weight" : 5
+            }
+        ]
+    }
+]
